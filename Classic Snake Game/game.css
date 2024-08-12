@@ -1,0 +1,28 @@
+#gameContainer{
+    text-align:center ;
+}
+
+#gameBoard{
+    border:3px solid ;
+
+}
+
+#scoreText{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:100px ;
+}
+
+#resetBtn{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    font-size:22px ;
+    width: 100px;
+    height: 50px;
+    border: 4px solid;
+    border-radius: 15px;
+    content: pointer ;
+}
+
+body{
+    background-image: url("snakeandapples.jpeg");
+    
+}
